@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name] | Backend-Focused Full Stack Developer
+# 👋 Hi, I'm Subham Das | Full Stack Developer
 
 ### 💻 About Me
 I'm a full stack developer with deep expertise in backend architecture, API design, and system scalability. I love building robust server-side applications and optimizing database performance.
