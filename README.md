@@ -40,5 +40,3 @@ Software engineer specializing in the integration of **Scalable Backend Systems*
 * **LinkedIn:** [linkedin.com/in/subham-das-306a3b218/](https://www.linkedin.com/in/subham-das-306a3b218/)
 * **X (Twitter):** [x.com/deep_kernel](https://x.com/deep_kernel)
 * **Email:** das.subham2001@gmail.com
-
-Would you like me to refine the wording of the professional summary to target a specific job role?
