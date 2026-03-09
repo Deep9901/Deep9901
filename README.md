@@ -35,15 +35,7 @@ Software engineer specializing in the integration of **Scalable Backend Systems*
 
 ---
 
-### 📊 GitHub Statistics
-
-![Subham's GitHub stats](https://github-readme-stats.vercel.app/api?username=deep9901&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deep9901&layout=compact&theme=radical)
-
----
-
-### 📫 Contact Information
+### Contact Information
 * **Email:** [das.subham2001@gmail.com](mailto:das.subham2001@gmail.com)
 * **LinkedIn:** [Subham Das](https://www.linkedin.com/in/subham-das-306a3b218/)
 * **X (Twitter):** [@deep_kernel](https://x.com/deep_kernel)
