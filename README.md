@@ -87,4 +87,4 @@ Backend Engineer with experience in building scalable backend systems and distri
 ### Contact Information
 * **Email:** [das.subham2001@gmail.com](mailto:das.subham2001@gmail.com)
 * **LinkedIn:** [Subham Das](https://www.linkedin.com/in/subham-das-306a3b218/)
-* **X (Twitter):** [@deep_kernel](https://x.com/sub_deep)
+* **X (Twitter):** [@deep_kernel](https://x.com/sub_deep4222)
