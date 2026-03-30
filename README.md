@@ -1,11 +1,11 @@
 # Subham Das 
 
 ### Professional Summary
-Software engineer specializing in the integration of **Scalable Backend Systems** and **Production-Grade AI**. Expertise includes building autonomous agents, RAG pipelines, and high-performance APIs. 
+Software Engineer at Concentric AI, specializing in the development of Scalable Backend Systems and Distributed Architectures. Expertise lies in bridging the gap between high-performance infrastructure and production-grade AI, with a core focus on DevOps automation and resilient system design.
 
-* **Current Focus:** Agentic Workflows (LangGraph), Advanced RAG, and MLOps.
-* **Specializations:** AI Infrastructure, Microservices, and System Design.
-* **Core Competencies:** LLM Orchestration, Vector Databases, and REST/gRPC APIs.
+* **Current Focus:** Backend Engineering, Distributed Systems, DevOps, Agentic Workflows (LangGraph), Advanced RAG, and MLOps.
+* **Specializations:** Microservices Orchestration, System Scalability, Cloud Infrastructure, AI Infrastructure, Microservices, and System Design.
+* **Core Competencies:** API Design (REST/gRPC), Containerization, Event-Driven Systems, LLM Orchestration, Vector Databases, and REST/gRPC APIs.
 
 ---
 
